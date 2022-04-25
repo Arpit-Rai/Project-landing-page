@@ -1,0 +1,52 @@
+.container {
+    background-color: #1F2937;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #F9FAF8;
+}   
+
+.mid-top {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    flex: 1;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.button {
+    height: 30px;
+    margin: 10px;
+    width: 90px;
+    font-weight: 600;
+    border-radius: 10px;
+    background: #3882F6;
+    color: white;
+}
+
+img {  
+    height: 300px;
+    margin-left: auto;
+}
+
+div {
+    display: block;
+}
+
+.text {
+    display: flex;
+    flex-basis: 400px;
+    text-align: left;
+    margin-right: 50px;
+    flex-direction: column;
+}
